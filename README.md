@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gunavardhan
 - 👀 I’m interested in coding and volleyball.
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any project which helps me learn.
 - 📫 How to reach me @Gunavardhan815 >>twitter 
 <!---
